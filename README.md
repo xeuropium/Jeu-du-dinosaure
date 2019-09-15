@@ -13,3 +13,6 @@ Changements à venir :
   - Ajout du score du dinosaure
   - Ajout d'un menu de jeu
   - Recommencer une partie
+  - Changer l'image du Dinosaure
+  - Changer l'animation du Dinosaure
+  - Ajouter des animations au sol
