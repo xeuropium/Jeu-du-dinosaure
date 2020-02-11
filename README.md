@@ -10,9 +10,10 @@ Le son sera intégré prochainement dans l'exécutable.
 
 Changements à venir : 
   - Mettre le son dans le .exe
-  - Ajout du score du dinosaure
-  - Ajout d'un menu de jeu
+  - Mettre score du dinosaure dans le .exe
+  - Ajout d'un menu de jeu dans le .exe
+  
   - Recommencer une partie
-  - Changer l'image du Dinosaure
-  - Changer l'animation du Dinosaure
+  - Améliorer l'image du Dinosaure
+  - Améliorer l'animation du Dinosaure
   - Ajouter des animations au sol
